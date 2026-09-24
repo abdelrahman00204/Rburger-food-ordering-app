@@ -96,7 +96,7 @@ class _LoginFormState extends State<LoginForm> {
                     color: AppColors.maroon800,
                   ),
                   children: [
-                    TextSpan(text: 'login.login_as_a'.tr()),
+                    TextSpan(text: '${'login.login_as'.tr()} '),
                     TextSpan(
                       // Swaps the colored text based on the mode
                       text: widget.isDriverMode

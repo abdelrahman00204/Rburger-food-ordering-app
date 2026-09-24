@@ -17,7 +17,8 @@
     "order_no": "Order No.",
     "total_amount": "Total Amount",
     "ok_thanks": "OK, thanks",
-    "contact_us": "Contact Us"
+    "contact_us": "Contact Us",
+    "phone_label": "Phone"
   },
   "admin": {
     "admin_tool": "Admin Tool",

@@ -17,7 +17,8 @@
     "order_no": "رقم الطلب",
     "total_amount": "المبلغ الإجمالي",
     "ok_thanks": "حسنًا، شكرًا",
-    "contact_us": "تواصل معنا"
+    "contact_us": "تواصل معنا",
+    "phone_label": "الهاتف"
   },
   "admin": {
     "admin_tool": "أداة المسؤول",
